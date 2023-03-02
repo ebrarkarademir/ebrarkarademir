@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ebrar</h1>
-<h3 align="center">A passionate about AI and software development.</h3>
+<h3 align="center">I'm passionate about AI and software development.</h3>
 
 - 🌱 I’m currently learning **NLP**
 
