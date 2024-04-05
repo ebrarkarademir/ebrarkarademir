@@ -5,11 +5,7 @@
 <a href="https://github.com/ebrarkarademir" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="ebrarkarademir" height="30" width="40" /></a>
 </p>
 
-- 🌱 I’m currently learning **AWS, Google Firebase, and advanced Python programming**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ebrarkarademir](https://github.com/ebrarkarademir)
-
-- 💬 Ask me about **Python, AWS, and machine learning**
 
 - 📫 How to reach me **ebrarkarademir999@gmail.com**
 
@@ -24,25 +20,4 @@
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Experience:</h3>
-
-- **Founder** at **Konect Software Solutions** (Jan 2024 - Present)
-  - Founded a sole proprietorship delivering custom website and web apps to meet client needs.
-  - Technologies used: HTML, CSS, JavaScript, Google Firebase, AWS, Python, AWS Lambda
-
-- **Software Engineer** at **Innoppia** (July 2023 - Jan 2024)
-  - Led software engineering efforts on a Predictive Maintenance Driven Task Planning System.
-  - Technologies used: Python, pandas, numpy, Git, Jupyter notebook, Amazon Web Services, DynamoDB, AWS Lambda, S3, EC2, IAM, Postman, VS Code, AWS API Gateway, Docker, unified-planning-library
-
-- **Software Engineer Intern** at **Innoppia** (April 2023 - July 2023)
-  - Engaged in backend development tasks for the FabMetrics IIoT platform.
-  - Technologies used: Python, pandas, numpy, Git, Jupyter notebook, Amazon Web Services, DynamoDB, AWS Lambda, S3, EC2, IAM, Postman, VS Code, AWS API Gateway
-
-- **Assistant IT Specialist** at **English Home** (Aug 2022 - Oct 2022)
-  - Developed internal business solutions in Python and participated in ABAP debugging and SAP operations for IT technical support.
-  - Technologies used: Python, pandas, numpy, Git, Jupyter notebook, MSSQL, SQL, SAP
-
-- **Data Science Intern** at **Iletisim Yazılım** (July 2021 - Aug 2021)
-  - Compiled comprehensive data analysis report on a worker time study data.
-  - Technologies used: Python, pandas, numpy, matplotlib, tensorflow, Jupyter notebook
 
