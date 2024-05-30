@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ebrar Karademir</h1>
-<h3 align="center">A passionate AI and software development enthusiast</h3>
+<h3 align="center">I enjoy building software to solve problems</h3>
 
-<p align="left"> <a href="https://www.linkedin.com/in/ebrar-karademir-a907711a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebrar-karademir" height="30" width="40" /></a>
-<a href="https://github.com/ebrarkarademir" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="ebrarkarademir" height="30" width="40" /></a>
-</p>
+<p align="left"> <a href="https://www.linkedin.com/in/ebrar-karademir-a907711a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebrar-karademir" height="30" width="40" /></a></p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ebrarkarademir](https://github.com/ebrarkarademir)
 
-- 📫 How to reach me **ebrarkarademir999@gmail.com**
+- 📫 How to reach me **ebrarkarademir.business@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ebrar-karademir-a907711a2/](https://www.linkedin.com/in/ebrar-karademir-a907711a2/)
 
@@ -22,6 +20,11 @@
 <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/ </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> 
+</a>
+
+
 
 
 
