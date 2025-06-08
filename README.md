@@ -71,9 +71,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   </a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/githubactions/githubactions-icon.svg" alt="github actions" width="40" height="40"/>
-  </a>
   <a href="https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab ci" width="40" height="40"/>
   </a>
@@ -99,18 +96,13 @@
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
   </a>
-  <a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/autodesk/autodesk-icon.svg" alt="autocad" width="40" height="40"/>
-  </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
   </a>
   <a href="https://www.sap.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="sap" width="40" height="40"/>
   </a>
-  <a href="https://arena-simulation.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/arenasimulation/arenasimulation-icon.svg" alt="arena simulation" width="40" height="40"/>
-  </a>
+
 </p>
 
 
